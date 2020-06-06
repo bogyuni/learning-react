@@ -7,6 +7,7 @@ class App extends Component {
 			<div>
 				<ScrollBox ref={(ref) => (this.ScrollBox = ref)} />
 				<button onClick={() => this.ScrollBox.scrollToBottom()}>Go to bottom</button>
+				<p>TEST</p>
 			</div>
 		);
 	}
