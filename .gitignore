@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/hello-react/node_modules
+
 /.pnp
 .pnp.js
 
